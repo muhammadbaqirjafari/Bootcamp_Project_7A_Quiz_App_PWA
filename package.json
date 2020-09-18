@@ -18,8 +18,7 @@
     "typescript": "^3.7.5",
     "updated": "^2.0.2",
     "workbox-cli": "^5.1.4",
-    "workbox-precaching": "^5.1.4",
-    "workbox-routing": "^5.1.4"
+    "firebase": "^7.20.0"
   },
   "scripts": {
     "start": "react-scripts start",
