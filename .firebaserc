@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bootcamp-expense-tracker"
+  },
+  "targets": {
+    "bootcamp-expense-tracker": {
+      "hosting": {
+        "Project_7A_Quiz_App": [
+          "bootcamp-quiz-app"
+        ]
+      }
+    }
+  }
+}

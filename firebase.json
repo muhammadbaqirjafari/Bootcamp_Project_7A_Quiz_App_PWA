@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target": "Project_7A_Quiz_App",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
