@@ -7,7 +7,7 @@ import { Difficulty } from './API';
 // Styles
 import { GlobalStyle, Wrapper } from './App.style';
 
-import firebaseMessaging from './firebase-messaging';
+// import firebaseMessaging from './firebase-messaging';
 
 const TOTAL_QUESTIONS = 10;
 
