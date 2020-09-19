@@ -13,7 +13,7 @@ const TOTAL_QUESTIONS = 10;
 
 function App() {
   // Firebase Messaging
-  firebaseMessaging();
+  // firebaseMessaging();
 
   const [loading, setLoading] = useState(false);
   const [questions, setQuestions] = useState<QuestionState[]>([]);
